@@ -6,14 +6,14 @@ describe('server.js', () => {
 		// it('Should return status 200', async () => {
 		// 	const response = await request(server)
 		// 		.post('/api/auth/register')
-		// 		.send({ username: 'newuser', password: 'password' });
+		// 		.send({ username: 'newuser5', password: 'password' });
 		// 	expect(response.status).toBe(200);
 		// });
 		// it('Should return username', async () => {
 		// 	const response = await request(server)
 		// 		.post('/api/auth/register')
-		// 		.send({ username: 'newuser', password: 'password' });
-		// 	expect(response.body.username).toBe('newuser');
+		// 		.send({ username: 'newuser10', password: 'password' });
+		// 	expect(response.body.username).toBe('newuser10');
 		// });
 	});
 
